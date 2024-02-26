@@ -1,0 +1,14 @@
+body{
+    background-color:#E6B9DE;
+}
+.maindiv{
+    text-align: center;
+    margin-top: 10%;
+}
+.link{
+margin-left: 45%;
+text-decoration: none;
+color: #4942E4;
+font-weight: 700;
+font-size: 30px;
+}
